@@ -1,0 +1,22 @@
+{
+  "name": "fundMe",
+  "address": "0x406AB5033423Dcb6391Ac9eEEad73294FA82Cfbc",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "fund",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "withdraw",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "filePath": "Solidity Practice/Smart Contracts/FundMe.sol",
+  "pinnedAt": 1729287767020
+}
